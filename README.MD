@@ -11,7 +11,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone [URL_REPO]
+git clone https://github.com/amoswijaya/naga-exchange-test.git
 cd naga-exchange-test
 ```
 
@@ -25,7 +25,7 @@ npm install
 
 ```bash
 docker-compose up -d
-cp .env.example .env
+cp  .env
 ```
 
 ### 4. Configure Environment Variables
